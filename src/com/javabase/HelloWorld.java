@@ -1,6 +1,6 @@
 package com.javabase;
 
-import com.javabase.oop.ProtectedClass;
+import com.javabase.accessmodifier.ProtectedClass;
 
 public class HelloWorld {
     

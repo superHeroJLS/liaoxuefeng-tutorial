@@ -1,4 +1,4 @@
-package com.javabase.oop;
+package com.javabase.accessmodifier;
 
 import java.util.function.LongSupplier;
 import java.util.stream.LongStream;

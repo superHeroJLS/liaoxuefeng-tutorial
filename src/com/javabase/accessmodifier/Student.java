@@ -1,4 +1,4 @@
-package com.javabase.oop;
+package com.javabase.accessmodifier;
 
 /**
  * subClass无法访问superClass的private属性和方法，也无法继承superClass的private属性和方法。

@@ -1,4 +1,4 @@
-package com.javabase.oop;
+package com.javabase.accessmodifier;
 
 public class Person {
 	private String name;
