@@ -1,5 +1,11 @@
 package com.javabase;
 
+/**
+ * <p>Java中自带的ClassLoader加载的路径</p>
+ * 参考链接{@link https://blog.csdn.net/briblue/article/details/54973413}
+ * @author jls
+ *
+ */
 public class ClassLoaderTest {
     public static void getClassLoaderLoadPath() throws InterruptedException {
         // BootstrapClassLoader加载class的路径
