@@ -1,5 +1,7 @@
 package com.javabase;
 
+import com.javabase.oop.ProtectedClass;
+
 public class HelloWorld {
     
     private String name;
